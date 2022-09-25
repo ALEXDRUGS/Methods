@@ -46,12 +46,10 @@ public class Main {
         if (deliveryDistance <= min) {
             System.out.println("Потребуется дней - " + day);
         } else {
-            for (int i = 1; i <= deliveryDistance; i++) {
-                if (deliveryDistance % interval <= min) {
-                    day = sum + 1;
-                } else {
-                    day = sum + 2;
-                }
+            if (deliveryDistance % interval <= min) {
+                day = sum + 1;
+            } else {
+                day = sum + 2;
             }
             System.out.println("Потребуется дней - " + day);
         }
