@@ -44,15 +44,14 @@ public class Main {
         int interval = 40;
         int sum = deliveryDistance / interval;
         if (deliveryDistance <= min) {
-            System.out.println("Потребуется дней - " + day);
+            System.out.println(" Потребуется дней - " + day);
         } else {
             if (deliveryDistance % interval <= min) {
                 day = sum + 1;
             } else {
                 day = sum + 2;
             }
-            System.out.println("Потребуется дней - " + day);
+            System.out.println(" Потребуется дней - " + day);
         }
     }
 }
-//чето добавил чисто для пулл реквеста
