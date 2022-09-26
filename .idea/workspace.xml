@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="c81a4ec4-871f-419c-b85b-54770b6c10c2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +38,7 @@
       <option name="presentableId" value="Default" />
       <updated>1664115612058</updated>
       <workItem from="1664115622992" duration="20386000" />
-      <workItem from="1664143705932" duration="383000" />
+      <workItem from="1664143705932" duration="1056000" />
     </task>
     <task id="LOCAL-00001" summary="ДЗ Методы">
       <created>1664136959309</created>
@@ -48,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664136959309</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ДЗ Методы. Исправление ошибки">
+      <created>1664144245138</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1664144245138</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -56,6 +62,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ДЗ Методы" />
-    <option name="LAST_COMMIT_MESSAGE" value="ДЗ Методы" />
+    <MESSAGE value="ДЗ Методы. Исправление ошибки" />
+    <option name="LAST_COMMIT_MESSAGE" value="ДЗ Методы. Исправление ошибки" />
   </component>
 </project>
